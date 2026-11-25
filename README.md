@@ -6,7 +6,7 @@ Este arquivo tem como instrução a instação do node_exrpoter me servidores li
 
 ### 1.1 Download - Versão v1.10.2
 ```shell
-wget [https://github.com/prometheus/node_exporter/releases/download/v1.10.2/node_exporter-1.10.2.linux-amd64.tar.gz](https://github.com/prometheus/node_exporter/releases/download/v1.10.2/node_exporter-1.10.2.linux-amd64.tar.gz)
+wget wget https://github.com/prometheus/node_exporter/releases/download/v1.10.2/node_exporter-1.10.2.linux-amd64.tar.gz
 ```
 ### 1.2 Extração
 ```shell
