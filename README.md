@@ -48,5 +48,10 @@ WantedBy=multi-user.target
 
 ### 3.3 Recarregar, habilitar e iniciar
 ```shell
-sudo systemctl daemon-reload  && sudo systemctl enable --now node_exporter  && sudo systemctl status node_exporter
+sudo systemctl daemon-reload  && sudo systemctl enable --now node_exporter
+```
+
+### 3.4 Status
+```shell
+sudo systemctl status node_exporter
 ```
